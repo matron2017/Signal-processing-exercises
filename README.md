@@ -1,4 +1,4 @@
 # Signal-processing-exercises
 
-This repo will contain either matlab and python exercises or projects related to signal processing in general.
+This repo will contain either matlab or python exercises and projects related to signal processing in general.
 
